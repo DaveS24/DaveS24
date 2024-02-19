@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaveS24
-- 👀 I’m interested in learning C++ as well as C#, Python and Kotlin
+- 👀 I’m interested in learning Python, C++, and C#
 - 🌱 I’m currently studying Artificial Intelligence and Data Science in Germany
 
 <!---
